@@ -26,7 +26,7 @@ The project includes the following visualizations:
 
 2.Elbow curve for the PCA data.
 
-![map text](/Images/ElbowCurveTwo%20.png)
+
 ![Alt text](relative%20path/to/img.png?raw=true "ElbowCurveTwo")
 
 3.Scatter plot of cryptocurrency clusters based on the original data.
