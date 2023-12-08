@@ -26,4 +26,24 @@ The project includes the following visualizations:
 
 2.Elbow curve for the PCA data.
 
-![map text](/Images/Elbow Curve one%20.png)
+![map text](/Images/ElbowCurveTwo%20.png)
+
+3.Scatter plot of cryptocurrency clusters based on the original data.
+
+![map text](/Images/ElbowCurve_3%20.png)
+
+4.Scatter plot of cryptocurrency clusters based on the PCA data.
+
+![map text](/Images/ElbowCurve_4%20.png)
+
+Conclusion
+
+The project analyzes the impact of using fewer features on clustering the data using K-means. Comparing the clustering results of the original data and the PCA data helps to understand the effect of dimensionality reduction on the clustering process.
+
+Dependencies
+
+    Python
+    pandas
+    NumPy
+    scikit-learn
+    hvPlot
