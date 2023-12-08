@@ -22,20 +22,22 @@ Results
 The project includes the following visualizations:
 
 1.Elbow curve for the original data.
-![map text](/Images/Elbow Curve one%20.png)
+![Elbow Curve one](https://github.com/yosieph/CryptoClustering/assets/85768490/80052cd8-a7b4-4fba-906e-3612693c92c5)
+
 
 2.Elbow curve for the PCA data.
 
-
-![Alt text](relative%20path/to/img.png?raw=true "ElbowCurveTwo")
+![ElbowCurveTwo](https://github.com/yosieph/CryptoClustering/assets/85768490/6fa2081b-b8af-41e2-be8e-49163fb53b56)
 
 3.Scatter plot of cryptocurrency clusters based on the original data.
 
-![map text](/Images/ElbowCurve_3%20.png)
+![ElbowCurve_3](https://github.com/yosieph/CryptoClustering/assets/85768490/451c20c0-377a-4e90-87ab-eb72f3a7fd64)
+
 
 4.Scatter plot of cryptocurrency clusters based on the PCA data.
+![ElbowCurve_4](https://github.com/yosieph/CryptoClustering/assets/85768490/b0e0e738-f8fb-4d17-b675-cca3b2d4dda6)
 
-![map text](/Images/ElbowCurve_4%20.png)
+
 
 Conclusion
 
